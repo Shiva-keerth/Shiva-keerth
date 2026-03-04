@@ -1,7 +1,7 @@
 # Hi, I'm Shiva Keerth G 👋
 
 🎓 B.Tech Information Technology Student @ Indus University, Ahmedabad (2026)  
-📊 Data Analytics | 🤖 Machine Learning | 🐍 Python Developer  
+📊 Data Analytics | 🤖 AI & Machine Learning | 🐍 Python Developer  
 📍 India | 📧 gantishivakeerth@gmail.com
 
 ---
@@ -9,12 +9,12 @@
 ## 🧠 About Me
 
 I'm a data-focused developer who doesn't just build models — I build **complete, deployable applications**.  
-From interactive ML-powered Streamlit apps to full analytics dashboards, I turn raw data into real insights.
+From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I turn raw data into real insights.
 
-- 🔭 Currently working on: ML algorithm implementations & data systems
-- 🌱 Learning: Advanced ML models, Feature Engineering, Model Deployment
+- 🔭 Currently working on: AI & ML algorithm implementations & data systems
+- 🌱 Learning: Advanced AI & ML models, Feature Engineering, Model Deployment
 - 💡 Passionate about: Turning data into actionable business decisions
-- 🎯 Targeting: Data Analyst | ML Engineer | BI Analyst | Python Developer roles
+- 🎯 Targeting: Data Analyst | Data Scientist | AI & ML Engineer | BI Analyst | Python Developer roles
 
 ---
 
@@ -26,7 +26,7 @@ From interactive ML-powered Streamlit apps to full analytics dashboards, I turn 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**ML & Data Science**  
+**AI & Data Science**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
@@ -42,10 +42,10 @@ From interactive ML-powered Streamlit apps to full analytics dashboards, I turn 
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| 🏠 [House Price Prediction](https://github.com/Shiva-keerth/house-price-prediction-rf) | Python, Random Forest, Streamlit | End-to-end ML app with 500-estimator RF model, real-time prediction & custom chart builder |
+| 🏠 [House Price Prediction](https://github.com/Shiva-keerth/house-price-prediction-rf) | Python, Random Forest, Streamlit | End-to-end AI & ML app with 500-estimator RF model, real-time prediction & custom chart builder |
 | 💰 [Expense Tracker System](https://github.com/Shiva-keerth/expense-tracker-system) | Python, Streamlit, Session State | Real-time income/expense tracker with live balance, filters & transaction management |
 | 🎓 [Student Performance Management](https://github.com/Shiva-keerth/student-management-system) | Python, Streamlit, Session State | Full student records system with grading engine, analytics & top performer tracker |
-| 🤖 [ML Algorithms Suite](https://github.com/Shiva-keerth/ml-algorithms-suite) | Python, Scikit-learn, Streamlit | 6 ML algorithms implemented with interactive Streamlit UI for user-defined predictions |
+| 🤖 [AI & ML Algorithms Suite](https://github.com/Shiva-keerth/ml-algorithms-suite) | Python, Scikit-learn, Streamlit | 6 AI & ML algorithms with interactive Streamlit UI for user-defined predictions |
 | 📺 [YouTube Analytics Dashboard](https://github.com/Shiva-keerth/youtube-analytics-dashboard) | Python, Streamlit, Pandas | Analyzed 1M+ records to uncover engagement patterns & content performance KPIs |
 | 🌾 [Crop Yield Analytics](https://github.com/Shiva-keerth/crop-yield-analytics-power-bi) | Power BI, SQL, DAX | Multi-dimensional crop yield dashboard analyzing soil, rainfall & irrigation data |
 | 💧 [Water Intake Dashboard](https://github.com/Shiva-keerth/daily-water-intake-dashboard) | Python, Streamlit, Pandas | Hydration trend analysis by age, activity & weather using GroupBy analytics |
@@ -54,8 +54,8 @@ From interactive ML-powered Streamlit apps to full analytics dashboards, I turn 
 
 ## 📜 Certifications
 
-- 🏅 Data Analytics – Infolabz Pvt Ltd
 - 🏅 AI & Machine Learning – Infolabz Pvt Ltd
+- 🏅 Data Analytics – Infolabz Pvt Ltd
 - 🏅 Data Analytics Job Simulation – **Deloitte**
 - 🏅 Futuristic Technologies – Indus University
 
