@@ -63,8 +63,10 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 
 ## 📊 GitHub Stats
 
-![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva-keerth&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-keerth&layout=compact&theme=tokyonight&hide_border=true)
+![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva-keerth&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-keerth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shiva-keerth&theme=tokyonight&hide_border=true)
 
 ---
 
