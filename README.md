@@ -49,7 +49,8 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 | 📺 [YouTube Analytics Dashboard](https://github.com/Shiva-keerth/youtube-analytics-dashboard) | Python, Streamlit, Pandas | Analyzed 1M+ records to uncover engagement patterns & content performance KPIs |
 | 🌾 [Crop Yield Analytics](https://github.com/Shiva-keerth/crop-yield-analytics-power-bi) | Power BI, SQL, DAX | Multi-dimensional crop yield dashboard analyzing soil, rainfall & irrigation data |
 | 💧 [Water Intake Dashboard](https://github.com/Shiva-keerth/daily-water-intake-dashboard) | Python, Streamlit, Pandas | Hydration trend analysis by age, activity & weather using GroupBy analytics |
-
+| 🤖 Agentic RAG System | Python, LangGraph, ChromaDB, Groq, Tavily | Dual-domain RAG platform with autonomous routing across Healthcare & Finance DBs with live web fallback |
+| 💼 AI Job Recommendation Platform | Python, LLM, NLP, Streamlit | Enterprise recruitment platform with AI scoring engine, TF-IDF matching across 600+ jobs and RBAC system |
 ---
 
 ## 📜 Certifications
@@ -72,7 +73,7 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-keerth-9574b92a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiva-keerth)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gantishivakeerth@gmail.com)
 
