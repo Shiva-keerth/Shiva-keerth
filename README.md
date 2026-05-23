@@ -49,8 +49,8 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 | 📺 [YouTube Analytics Dashboard](https://github.com/Shiva-keerth/youtube-analytics-dashboard) | Python, Streamlit, Pandas | Analyzed 1M+ records to uncover engagement patterns & content performance KPIs |
 | 🌾 [Crop Yield Analytics](https://github.com/Shiva-keerth/crop-yield-analytics-power-bi) | Power BI, SQL, DAX | Multi-dimensional crop yield dashboard analyzing soil, rainfall & irrigation data |
 | 💧 [Water Intake Dashboard](https://github.com/Shiva-keerth/daily-water-intake-dashboard) | Python, Streamlit, Pandas | Hydration trend analysis by age, activity & weather using GroupBy analytics |
-| 🤖 Agentic RAG System | Python, LangGraph, ChromaDB, Groq, Tavily | Dual-domain RAG platform with autonomous routing across Healthcare & Finance DBs with live web fallback |
-| 💼 AI Job Recommendation Platform | Python, LLM, NLP, Streamlit | Enterprise recruitment platform with AI scoring engine, TF-IDF matching across 600+ jobs and RBAC system |
+| 🤖 [Agentic RAG System](https://github.com/Shiva-keerth/Agentic-RAG-Enterprise) | Python, LangGraph, ChromaDB, Groq, Tavily | Dual-domain RAG platform with autonomous routing across Healthcare & Finance DBs with live web fallback |
+| 💼 [AI Job Recommendation Platform](https://github.com/Shiva-keerth/ai-job-recommendation-platform) | Python, LLM, NLP, Streamlit | Enterprise recruitment platform with AI scoring engine, TF-IDF matching across 600+ jobs and RBAC system |
 ---
 
 ## 📜 Certifications
