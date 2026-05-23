@@ -14,7 +14,7 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 - 🔭 Currently working on: AI & ML algorithm implementations & data systems
 - 🌱 Learning: Advanced AI & ML models, Feature Engineering, Model Deployment
 - 💡 Passionate about: Turning data into actionable business decisions
-- 🎯 Targeting: Data Analyst | Data Scientist | AI & ML Engineer | BI Analyst | Python Developer roles
+- 🎯 Targeting: GenAI Engineer | LLM Engineer | Data Engineer | AI Engineer roles"
 
 ---
 
