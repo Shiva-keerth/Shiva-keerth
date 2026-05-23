@@ -1,7 +1,7 @@
 # Hi, I'm Shiva Keerth G 👋
 
 🎓 B.Tech Information Technology Student @ Indus University, Ahmedabad (2026)  
-📊 Data Analytics | 🤖 AI & Machine Learning | 🐍 Python Developer  
+🤖 GenAI Engineer | LLM Engineer | Data Engineer | 🤖 AI & Machine Learning | 🐍 Python Developer  
 📍 India | 📧 gantishivakeerth@gmail.com
 
 ---
