@@ -11,8 +11,8 @@
 I'm a data-focused developer who doesn't just build models — I build **complete, deployable applications**.  
 From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I turn raw data into real insights.
 
-- 🔭 Currently working on: AI & ML algorithm implementations & data systems
-- 🌱 Learning: Advanced AI & ML models, Feature Engineering, Model Deployment
+- 🔭 Currently working on: Agentic RAG systems, LLM applications & GenAI pipelines
+- 🌱 Learning: LangGraph, Advanced RAG architectures, LLM deployment
 - 💡 Passionate about: Turning data into actionable business decisions
 - 🎯 Targeting: GenAI Engineer | LLM Engineer | Data Engineer | AI Engineer roles"
 
@@ -35,6 +35,14 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Generative AI & LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -79,4 +87,4 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 
 ---
 
-⭐ *"Data is the new oil — I'm here to refine it."*
+⭐ *"Building intelligent systems that think, retrieve, and reason — one LLM at a time."*
