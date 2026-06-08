@@ -56,6 +56,13 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 
 | Project | Tech Stack | Description |
 |---|---|---|
+| 🧠 [OmniMind AI Enterprise](https://github.com/Shiva-keerth/OmniMind-AI-Enterprise) | Python, LangChain, Neo4j, Whisper, Llama-3, Streamlit | Architected a multi-modal Enterprise Knowledge Graph that transcribes Zoom audio and extracts actionable intelligence into a Neo4j database with a dynamic Graph-RAG Chatbot. |
+| 🤖 [Agentic RAG System](https://github.com/Shiva-keerth/Agentic-RAG-Enterprise) | Python, LangGraph, ChromaDB, Groq, Tavily | Dual-domain RAG platform with autonomous routing across Healthcare & Finance DBs with live web fallback |
+| 💼 [Skillmatch AI](https://github.com/Shiva-keerth/ai-job-recommendation-platform) | Python, LLM, NLP, Streamlit | Enterprise recruitment platform with AI scoring engine, TF-IDF matching across 600+ jobs and RBAC system |
+| 🛡️ [Enterprise Analytics Platform](https://github.com/Shiva-keerth/Enterprise-Analytics-Platform) | Python, Pandas, Isolation Forest, Matplotlib | Engineered an ETL data pipeline and analytics dashboard for real-time fraud anomaly detection using custom Isolation Forest models. |
+| 📈 [Workforce Readiness AI](https://github.com/Shiva-keerth/Workforce-Readiness-AI) | Python, Scikit-Learn, Plotly, Pandas, Streamlit | Designed a dual-portal HR predictive system leveraging Random Forest models for automated skill-gap analysis and workforce performance scoring. |
+| 🎓 [DS Interview Trainer 2026](https://github.com/Shiva-keerth/ds-interview-trainer-2026) | Python, Groq API, LLM Prompting, Streamlit | Created an AI-powered mock interview platform covering advanced ML, Deep Learning, and SQL, featuring an interactive LLM-driven AI Tutor. |
+| 🧠 [15-Days Advanced Deep Learning](https://github.com/Shiva-keerth/15-Days-of-Advanced-Deep-Learning) | Python, NumPy, TensorFlow, CNNs, Transformers | Programmed a comprehensive deep learning curriculum from scratch, including manual backpropagation math, CNN architectures, and self-attention blocks. |
 | 🏠 [House Price Prediction](https://github.com/Shiva-keerth/house-price-prediction-rf) | Python, Random Forest, Streamlit | End-to-end AI & ML app with 500-estimator RF model, real-time prediction & custom chart builder |
 | 💰 [Expense Tracker System](https://github.com/Shiva-keerth/expense-tracker-system) | Python, Streamlit, Session State | Real-time income/expense tracker with live balance, filters & transaction management |
 | 🎓 [Student Performance Management](https://github.com/Shiva-keerth/student-management-system) | Python, Streamlit, Session State | Full student records system with grading engine, analytics & top performer tracker |
@@ -63,10 +70,7 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 | 📺 [YouTube Analytics Dashboard](https://github.com/Shiva-keerth/youtube-analytics-dashboard) | Python, Streamlit, Pandas | Analyzed 1M+ records to uncover engagement patterns & content performance KPIs |
 | 🌾 [Crop Yield Analytics](https://github.com/Shiva-keerth/crop-yield-analytics-power-bi) | Power BI, SQL, DAX | Multi-dimensional crop yield dashboard analyzing soil, rainfall & irrigation data |
 | 💧 [Water Intake Dashboard](https://github.com/Shiva-keerth/daily-water-intake-dashboard) | Python, Streamlit, Pandas | Hydration trend analysis by age, activity & weather using GroupBy analytics |
-| 🤖 [Agentic RAG System](https://github.com/Shiva-keerth/Agentic-RAG-Enterprise) | Python, LangGraph, ChromaDB, Groq, Tavily | Dual-domain RAG platform with autonomous routing across Healthcare & Finance DBs with live web fallback |
-| 💼 [Skillmatch AI](https://github.com/Shiva-keerth/ai-job-recommendation-platform) | Python, LLM, NLP, Streamlit | Enterprise recruitment platform with AI scoring engine, TF-IDF matching across 600+ jobs and RBAC system |
-| 🧠 [OmniMind AI Enterprise](https://github.com/Shiva-keerth/OmniMind-AI-Enterprise) | Python, LangChain, Neo4j, Whisper, Llama-3, Streamlit | Architected a multi-modal Enterprise Knowledge Graph that transcribes Zoom audio and extracts actionable intelligence into a Neo4j database with a dynamic Graph-RAG Chatbot. |
----
+
 
 ## 📜 Certifications
 
