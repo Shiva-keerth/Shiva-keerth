@@ -12,7 +12,7 @@ I'm a data-focused developer who doesn't just build models — I build **complet
 From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I turn raw data into real insights.
 
 - 🔭 Currently working on: Agentic RAG systems, LLM applications & GenAI pipelines
-- 🌱 Learning: LangGraph, Advanced RAG architectures, LLM deployment
+- 🌱 Learning: Advanced Graph-RAG architectures (Neo4j) & Multi-modal Enterprise Knowledge Engines.
 - 💡 Passionate about: Turning data into actionable business decisions
 - 🎯 Targeting: GenAI Engineer | LLM Engineer | Data Engineer | AI Engineer roles"
 
@@ -43,6 +43,12 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Databases & Vector Stores**  
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white) 
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logo=chroma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -59,6 +65,7 @@ From interactive AI & ML-powered Streamlit apps to full analytics dashboards, I 
 | 💧 [Water Intake Dashboard](https://github.com/Shiva-keerth/daily-water-intake-dashboard) | Python, Streamlit, Pandas | Hydration trend analysis by age, activity & weather using GroupBy analytics |
 | 🤖 [Agentic RAG System](https://github.com/Shiva-keerth/Agentic-RAG-Enterprise) | Python, LangGraph, ChromaDB, Groq, Tavily | Dual-domain RAG platform with autonomous routing across Healthcare & Finance DBs with live web fallback |
 | 💼 [Skillmatch AI](https://github.com/Shiva-keerth/ai-job-recommendation-platform) | Python, LLM, NLP, Streamlit | Enterprise recruitment platform with AI scoring engine, TF-IDF matching across 600+ jobs and RBAC system |
+| 🧠 [OmniMind AI Enterprise](https://github.com/Shiva-keerth/OmniMind-AI-Enterprise) | Python, LangChain, Neo4j, Whisper, Llama-3, Streamlit | Architected a multi-modal Enterprise Knowledge Graph that transcribes Zoom audio and extracts actionable intelligence into a Neo4j database with a dynamic Graph-RAG Chatbot. |
 ---
 
 ## 📜 Certifications
